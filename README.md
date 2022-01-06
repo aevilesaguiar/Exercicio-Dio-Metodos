@@ -16,3 +16,8 @@ Sobrecarga - é a capacidade de definir métodos para diferentes contextos, mas 
 
 ## EXERCICIOS
 - Crie uma aplicação que calcula a área dos 3 quadriláteros notáveis: quadrado, retâgulo e trapézio
+
+# Retorno
+- Entender como funcionam
+- Simbologia: return(atrelado ao método)
+
