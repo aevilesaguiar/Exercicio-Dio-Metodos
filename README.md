@@ -15,4 +15,4 @@
 Sobrecarga - é a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.(mantemos o nome do método e alteramos apenas as assinaturas do método, ou seja seus parametros.
 
 ## EXERCICIOS
-- Crie uma palicação que calcula a área dos 3 quadriláteros notáveis: quadrado, retâgulo e trapézio
+- Crie uma aplicação que calcula a área dos 3 quadriláteros notáveis: quadrado, retâgulo e trapézio
