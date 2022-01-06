@@ -12,4 +12,4 @@
 - Entender o que é sobrecarga no método
 - Saber criar sobrecargas
 
-Sobrecarga - é a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
+Sobrecarga - é a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.(mantemos o nome do método e alteramos apenas as assinaturas do método, ou seja seus parametros.
